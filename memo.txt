@@ -1,0 +1,7 @@
+
+
+	MEMO: this program will run ping command to the IP address
+	in the "IP_source.txt" automatically.And sent the OK result to the 
+	"success.txt",send the FAIL result to the "fail.txt",send the
+	detials to the "result.txt"
+	You can check them after the program finished.
